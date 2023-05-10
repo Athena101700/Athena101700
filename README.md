@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at unasat<br>
+Student at UNASAT<br>
 
 
 # 💻 Tech Stack:
